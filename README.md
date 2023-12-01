@@ -8,6 +8,7 @@ Detailed Movie Information: Each movie page displays detailed information, inclu
 Responsive Design: The web app is designed to be responsive, ensuring a consistent and enjoyable user experience across various devices and screen sizes.
 
 Technologies Used
+
 Next.js: Built on the Next.js framework for React, providing server-side rendering for improved performance and SEO.
 
 IMDB API: Utilizes the IMDB API to fetch real-time data about movies, ensuring accurate and up-to-date information.
