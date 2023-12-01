@@ -9,6 +9,9 @@ Responsive Design: The web app is designed to be responsive, ensuring a consiste
 
 Technologies Used
 Next.js: Built on the Next.js framework for React, providing server-side rendering for improved performance and SEO.
+
 IMDB API: Utilizes the IMDB API to fetch real-time data about movies, ensuring accurate and up-to-date information.
+
 React: Leverages the power of React for building a dynamic and interactive user interface.
+
 Tailwind CSS: Uses Tailwind CSS modules for styling components, ensuring a modular and maintainable styling approach.
