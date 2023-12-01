@@ -1,9 +1,11 @@
-import Image from 'next/image'
+import Navigation from "@/components/Navigation"
 
 export default function Home() {
   return (
     <>
-      <h1>Filamu</h1>
+      
+      <Navigation />
+      
     </>
   )
 }
