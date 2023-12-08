@@ -16,6 +16,20 @@
   }
 }
 
+/*Added this line to chuck scrollbar visibility from show-view components*/
+@layer utilities {
+    /* Hide scrollbar for Chrome, Safari and Opera */
+    .no-scrollbar::-webkit-scrollbar {
+        display: none;
+    }
+
+    /* Hide scrollbar for IE, Edge and Firefox */
+    .no-scrollbar {
+        -ms-overflow-style: none;  /* IE and Edge */
+        scrollbar-width: none;  /* Firefox */
+    }
+}
+
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(

@@ -1,0 +1,28 @@
+/*
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.my-custom-style {
+    .hero-wave {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        overflow: hidden;
+        line-height: 0;
+    }
+    
+    .hero-wave svg {
+        position: relative;
+        display: block;
+        width: calc(219% + 1.3px);
+        height: 500px;
+        transform: rotateY(180deg);
+    }
+    
+    .hero-wave .shape-fill {
+        fill: #5D5252;
+    }
+}
+*/
