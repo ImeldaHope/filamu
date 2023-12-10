@@ -7,7 +7,7 @@ const Subscription = () => {
       <p class="flex justify-center">Enjoy unlimited entertainment, tailored just for you:</p>
       <p class="flex justify-center">Choose Your Cinematic Journey with our Flexible Subscription Plans!</p>
       <div class="flex flex-row items-center justify-center pt-5">
-        <div class="flex flex-col mx-8 p-5 m-5 bg-[#0c0c0c] rounded-[30px]">
+        <div class="flex flex-col mx-8 p-5 m-5 bg-[#0c0c0c] rounded-[30px] shadow shadow-slate-100">
           <div class="p-3 mx-8">
             <p class="flex justify-center font-bold text-3xl">Gold</p>
             <p class="flex justify-center font-black text-xl text-yellow-700">$8.99/month</p>
@@ -40,7 +40,7 @@ const Subscription = () => {
           </div>
           <p class="flex justify-center mb-3 text-[#484848]">Learn more about this plan</p>          
         </div>
-        <div class="flex flex-col mx-8 p-5 m-5 bg-[#0c0c0c] rounded-[30px]">
+        <div class="flex flex-col mx-8 p-5 m-5 bg-[#0c0c0c] rounded-[30px] shadow shadow-slate-100">
           <div class="p-3 mx-8">
             <p class="flex justify-center font-bold text-3xl">Diamond</p>
             <p class="flex justify-center font-black text-xl text-yellow-700">$19.99/year</p>
