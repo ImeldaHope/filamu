@@ -23,7 +23,7 @@ const Navigation = () => {
             </div>
             <div class="space-x-4">
                 <button class="rounded-full px-3 m-2 border  hover:text-[#000000] hover:bg-[#ffffff] p-1">Sign In</button>
-                <button class="rounded-full px-2 m-2 border bg-[#FD1D1D]  hover:text-[#101010] hover:bg-[#ffffff] hover:font-semibold hover:border-[#FD1D1D] p-1">Sign Up</button>                     
+                <button class="rounded-full px-2 m-2 border bg-[#FD1D1D]  hover:text-[#FD1D1D] hover:bg-[#ffffff] hover:font-semibold hover:border-[#FD1D1D] p-1">Sign Up</button>                     
             </div>         
         </nav>        
     </header>

@@ -10,7 +10,7 @@ const Subscription = () => {
         <div class="flex flex-col mx-8 p-5 m-5 bg-[#0c0c0c] rounded-[30px] shadow shadow-slate-100">
           <div class="p-3 mx-8">
             <p class="flex justify-center font-bold text-3xl">Gold</p>
-            <p class="flex justify-center font-black text-xl text-yellow-700">$8.99/month</p>
+            <p class="flex justify-center font-medium text-xl text-[#fd1d1d]">$8.99/month</p>
           </div>          
           <ol class="mx-3 list-disc">
             <li>No ads</li>
@@ -43,7 +43,7 @@ const Subscription = () => {
         <div class="flex flex-col mx-8 p-5 m-5 bg-[#0c0c0c] rounded-[30px] shadow shadow-slate-100">
           <div class="p-3 mx-8">
             <p class="flex justify-center font-bold text-3xl">Diamond</p>
-            <p class="flex justify-center font-black text-xl text-yellow-700">$19.99/year</p>
+            <p class="flex justify-center font-medium text-xl text-[#fd1d1d]">$19.99/year</p>
           </div>          
           <ol class="mx-3 list-disc">                       
             <li>No ads</li>

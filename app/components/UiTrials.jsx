@@ -12,12 +12,13 @@ const UiTrials = () => {
         </div>
         <div class="p-8">
             <ol class="list-disc">
+                <li>Add comments</li>
                 <li>Footer:Input text visibility</li>
                 <li>Navbar:Sign Up button glow</li>
                 <li>Filamu logo alignment to center</li>
                 <li>Sticky footer bottom</li>
                 <li>Infinite scroll animation for movie cards on landing page</li>
-                <li>Scroll buttons on show-view </li>
+                <li>Responsive design </li>
             </ol>
             
         </div>           
